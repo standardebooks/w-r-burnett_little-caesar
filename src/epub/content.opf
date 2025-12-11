@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/w-r-burnett/little-caesar</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-12-11T22:22:38Z</dc:date>
+		<meta property="dcterms:modified">2025-12-11T22:22:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,14 +38,17 @@
 		<meta id="collection-2" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">84</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A small-time gangster in Prohibition-era Chicago tries to climb to the top of a criminal empire.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Caesar Rico is a small-time gangster in Prohibition-era Chicago, one of crime boss Sam Vettori’s lieutenants. He’s ordered to take a crew to rob a club during a New Year’s Eve party—but the holdup takes a turn for the worse when Rico shoots and kills a popular police captain.&lt;/p&gt;
+			&lt;p&gt;Using this distinctly unwanted outcome as leverage, Rico starts to climb to the top of Vettori’s criminal empire—but he quickly discovers that the summit can be very slippery.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Little Caesar&lt;/i&gt; is often called the first gangster novel, and it certainly delivers in its realistic depiction of crime, the people in the social strata who are concerned with it, and their unique period patois. The novel was a hugely popular bestseller precisely because it was one of the first to record what life was like in the criminal gangs that had a stranglehold on American urban life.&lt;/p&gt;
+			&lt;p&gt;The novel was later adapted into the 1931 film of the same name, famous for, like its literary counterpart, being the first “gangster film” that established many of the gangster-movie tropes we take for granted today.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/littlecaesar00burn</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">48416</meta>
+		<meta property="se:reading-ease.flesch">86.5</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-r-burnett_little-caesar</meta>
 		<dc:creator id="author">W. R. Burnett</dc:creator>
 		<meta property="file-as" refines="#author">Burnett, W. R.</meta>
